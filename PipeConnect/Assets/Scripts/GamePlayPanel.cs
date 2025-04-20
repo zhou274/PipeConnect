@@ -6,7 +6,6 @@ using System;
 using Game;
 using MyGame;
 using TMPro;
-using UnityEditor.SearchService;
 using UnityEngine;
 using UnityEngine.SceneManagement;
 using UnityEngine.UI;
@@ -41,7 +40,7 @@ public class GamePlayPanel : ShowHidable
     }
     public void OnClickUndo()
     {
-        ShowVideoAd("192if3b93qo6991ed0",
+        ShowVideoAd("59flhtlg3r7h0ndje4",
             (bol) => {
                 if (bol)
                 {
@@ -79,7 +78,7 @@ public class GamePlayPanel : ShowHidable
 
     public void OnClickSkip()
     {
-        ShowVideoAd("192if3b93qo6991ed0",
+        ShowVideoAd("59flhtlg3r7h0ndje4",
             (bol) => {
                 if (bol)
                 {

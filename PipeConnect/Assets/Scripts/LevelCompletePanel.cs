@@ -23,7 +23,7 @@ public class LevelCompletePanel : ShowHidable
         base.OnShowCompleted();
         _toastTxt.text = _toasts.GetRandom();
         _toastTxt.gameObject.SetActive(true);
-        ShowInterstitialAd("1lcaf5895d5l1293dc",
+        ShowInterstitialAd("8p7qe8qmf72252qf0a",
             () => {
                 Debug.LogError("--插屏广告完成--");
 
